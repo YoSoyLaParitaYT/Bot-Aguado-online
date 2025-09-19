@@ -1,0 +1,9 @@
+{
+  "users": {
+    "guildId_userId": {
+      "xp": 120,
+      "level": 2,
+      "lastMessage": 0
+    }
+  }
+}
