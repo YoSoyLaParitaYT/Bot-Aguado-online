@@ -3,6 +3,7 @@ const { Client, GatewayIntentBits, Events, EmbedBuilder } = require('discord.js'
 const fs = require('fs-extra');
 const path = require('path');
 const express = require("express");
+const keep_alive = require(`./keep_alive.js`);
 
 const DATA_FILE = path.join(__dirname, 'data.json');
 
